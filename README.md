@@ -32,7 +32,7 @@ package main
 
 import (
     "fmt"
-    "github.com/oschwald/geoip2-golang"
+    "github.com/todostreaming/geoip2-golang"
     "log"
     "net"
 )
