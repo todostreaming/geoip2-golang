@@ -7,7 +7,7 @@ package geoip2
 import (
 	"net"
 
-	"github.com/oschwald/maxminddb-golang"
+	"github.com/todostreaming/maxminddb-golang"
 )
 
 // The City structure corresponds to the data in the GeoIP2/GeoLite2 City
